@@ -1,2 +1,2 @@
-# Galway_Genomics
+# Galway Genomics
 RNA Seq Data
