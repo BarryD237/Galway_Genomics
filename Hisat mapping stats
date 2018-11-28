@@ -1,0 +1,241 @@
+############
+H84WTCtrl_S1
+############
+
+31085201 reads; of these:
+  31085201 (100.00%) were paired; of these:
+    686460 (2.21%) aligned concordantly 0 times
+    28708938 (92.36%) aligned concordantly exactly 1 time
+    1689803 (5.44%) aligned concordantly >1 times
+    ----
+    686460 pairs aligned concordantly 0 times; of these:
+      46361 (6.75%) aligned discordantly 1 time
+    ----
+    640099 pairs aligned 0 times concordantly or discordantly; of these:
+      1280198 mates make up the pairs; of these:
+        664902 (51.94%) aligned 0 times
+        541606 (42.31%) aligned exactly 1 time
+        73690 (5.76%) aligned >1 times
+98.93% overall alignment rate
+
+############
+H85WTCtrl_S2
+############
+
+84047975 reads; of these:
+  84047975 (100.00%) were paired; of these:
+    3571359 (4.25%) aligned concordantly 0 times
+    77401185 (92.09%) aligned concordantly exactly 1 time
+    3075431 (3.66%) aligned concordantly >1 times
+    ----
+    3571359 pairs aligned concordantly 0 times; of these:
+      1494485 (41.85%) aligned discordantly 1 time
+    ----
+    2076874 pairs aligned 0 times concordantly or discordantly; of these:
+      4153748 mates make up the pairs; of these:
+        1552222 (37.37%) aligned 0 times
+        2142503 (51.58%) aligned exactly 1 time
+        459023 (11.05%) aligned >1 times
+99.08% overall alignment rate
+
+############
+H86WTCtrl_S3
+############
+
+38810921 reads; of these:
+  38810921 (100.00%) were paired; of these:
+    705112 (1.82%) aligned concordantly 0 times
+    36889699 (95.05%) aligned concordantly exactly 1 time
+    1216110 (3.13%) aligned concordantly >1 times
+    ----
+    705112 pairs aligned concordantly 0 times; of these:
+      66956 (9.50%) aligned discordantly 1 time
+    ----
+    638156 pairs aligned 0 times concordantly or discordantly; of these:
+      1276312 mates make up the pairs; of these:
+        644041 (50.46%) aligned 0 times
+        559809 (43.86%) aligned exactly 1 time
+        72462 (5.68%) aligned >1 times
+99.17% overall alignment rate
+
+
+############
+H84WTCYTO_S4
+############
+
+61097498 reads; of these:
+  61097498 (100.00%) were paired; of these:
+    1143645 (1.87%) aligned concordantly 0 times
+    56710896 (92.82%) aligned concordantly exactly 1 time
+    3242957 (5.31%) aligned concordantly >1 times
+    ----
+    1143645 pairs aligned concordantly 0 times; of these:
+      76928 (6.73%) aligned discordantly 1 time
+    ----
+    1066717 pairs aligned 0 times concordantly or discordantly; of these:
+      2133434 mates make up the pairs; of these:
+        1081477 (50.69%) aligned 0 times
+        905943 (42.46%) aligned exactly 1 time
+        146014 (6.84%) aligned >1 times
+99.11% overall alignment rate
+
+############
+H85WTCYTO_S5
+############
+
+36871280 reads; of these:
+  36871280 (100.00%) were paired; of these:
+    2077077 (5.63%) aligned concordantly 0 times
+    33725877 (91.47%) aligned concordantly exactly 1 time
+    1068326 (2.90%) aligned concordantly >1 times
+    ----
+    2077077 pairs aligned concordantly 0 times; of these:
+      1019826 (49.10%) aligned discordantly 1 time
+    ----
+    1057251 pairs aligned 0 times concordantly or discordantly; of these:
+      2114502 mates make up the pairs; of these:
+        802021 (37.93%) aligned 0 times
+        1106975 (52.35%) aligned exactly 1 time
+        205506 (9.72%) aligned >1 times
+98.91% overall alignment rate
+
+############
+H86WTCYTO_S6
+############
+
+39060553 reads; of these:
+  39060553 (100.00%) were paired; of these:
+    779373 (2.00%) aligned concordantly 0 times
+    37256844 (95.38%) aligned concordantly exactly 1 time
+    1024336 (2.62%) aligned concordantly >1 times
+    ----
+    779373 pairs aligned concordantly 0 times; of these:
+      73445 (9.42%) aligned discordantly 1 time
+    ----
+    705928 pairs aligned 0 times concordantly or discordantly; of these:
+      1411856 mates make up the pairs; of these:
+        728974 (51.63%) aligned 0 times
+        609182 (43.15%) aligned exactly 1 time
+        73700 (5.22%) aligned >1 times
+99.07% overall alignment rate
+
+
+############
+H84S2Ctrl_S7
+############
+
+32479753 reads; of these:
+  32479753 (100.00%) were paired; of these:
+    832941 (2.56%) aligned concordantly 0 times
+    29795767 (91.74%) aligned concordantly exactly 1 time
+    1851045 (5.70%) aligned concordantly >1 times
+    ----
+    832941 pairs aligned concordantly 0 times; of these:
+      50232 (6.03%) aligned discordantly 1 time
+    ----
+    782709 pairs aligned 0 times concordantly or discordantly; of these:
+      1565418 mates make up the pairs; of these:
+        813751 (51.98%) aligned 0 times
+        652649 (41.69%) aligned exactly 1 time
+        99018 (6.33%) aligned >1 times
+98.75% overall alignment rate
+
+############
+H85S2Ctrl_S8
+############
+
+33586055 reads; of these:
+  33586055 (100.00%) were paired; of these:
+    1617829 (4.82%) aligned concordantly 0 times
+    30723933 (91.48%) aligned concordantly exactly 1 time
+    1244293 (3.70%) aligned concordantly >1 times
+    ----
+    1617829 pairs aligned concordantly 0 times; of these:
+      727438 (44.96%) aligned discordantly 1 time
+    ----
+    890391 pairs aligned 0 times concordantly or discordantly; of these:
+      1780782 mates make up the pairs; of these:
+        660738 (37.10%) aligned 0 times
+        923939 (51.88%) aligned exactly 1 time
+        196105 (11.01%) aligned >1 times
+99.02% overall alignment rate
+
+############
+H86S2Ctrl_S9
+############
+
+34798461 reads; of these:
+  34798461 (100.00%) were paired; of these:
+    693716 (1.99%) aligned concordantly 0 times
+    33027095 (94.91%) aligned concordantly exactly 1 time
+    1077650 (3.10%) aligned concordantly >1 times
+    ----
+    693716 pairs aligned concordantly 0 times; of these:
+      95882 (13.82%) aligned discordantly 1 time
+    ----
+    597834 pairs aligned 0 times concordantly or discordantly; of these:
+      1195668 mates make up the pairs; of these:
+        609187 (50.95%) aligned 0 times
+        525447 (43.95%) aligned exactly 1 time
+        61034 (5.10%) aligned >1 times
+99.12% overall alignment rate
+
+#############
+H84S2CYTO_S10
+#############
+
+24469213 reads; of these:
+  24469213 (100.00%) were paired; of these:
+    429221 (1.75%) aligned concordantly 0 times
+    22895655 (93.57%) aligned concordantly exactly 1 time
+    1144337 (4.68%) aligned concordantly >1 times
+    ----
+    429221 pairs aligned concordantly 0 times; of these:
+      22668 (5.28%) aligned discordantly 1 time
+    ----
+    406553 pairs aligned 0 times concordantly or discordantly; of these:
+      813106 mates make up the pairs; of these:
+        422454 (51.96%) aligned 0 times
+        345816 (42.53%) aligned exactly 1 time
+        44836 (5.51%) aligned >1 times
+99.14% overall alignment rate
+
+#############
+H85S2CYTO_S11
+#############
+
+20433443 reads; of these:
+  20433443 (100.00%) were paired; of these:
+    678060 (3.32%) aligned concordantly 0 times
+    19067294 (93.31%) aligned concordantly exactly 1 time
+    688089 (3.37%) aligned concordantly >1 times
+    ----
+    678060 pairs aligned concordantly 0 times; of these:
+      207310 (30.57%) aligned discordantly 1 time
+    ----
+    470750 pairs aligned 0 times concordantly or discordantly; of these:
+      941500 mates make up the pairs; of these:
+        428343 (45.50%) aligned 0 times
+        433175 (46.01%) aligned exactly 1 time
+        79982 (8.50%) aligned >1 times
+98.95% overall alignment rate
+
+#############
+H86S2CYTO_S12
+#############
+
+40168942 reads; of these:
+  40168942 (100.00%) were paired; of these:
+    844053 (2.10%) aligned concordantly 0 times
+    38311848 (95.38%) aligned concordantly exactly 1 time
+    1013041 (2.52%) aligned concordantly >1 times
+    ----
+    844053 pairs aligned concordantly 0 times; of these:
+      142442 (16.88%) aligned discordantly 1 time
+    ----
+    701611 pairs aligned 0 times concordantly or discordantly; of these:
+      1403222 mates make up the pairs; of these:
+        726558 (51.78%) aligned 0 times
+        603701 (43.02%) aligned exactly 1 time
+        72963 (5.20%) aligned >1 times
+99.10% overall alignment rate
