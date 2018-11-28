@@ -1,5 +1,5 @@
-For trimming reads I decided to apply a generous 
-sliding window score of 8:20
+For trimming reads I decided to apply a 
+greedy appraoch; sliding window score = 8:20.
 
 module load jdk 
 
